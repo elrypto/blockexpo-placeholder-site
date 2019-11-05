@@ -2,7 +2,7 @@
   "name": "blockexpo-static",
   "version": "0.1.0",
   "engines": {
-    "node": "12.13.0"
+    "node": "9.11.1"
   },
   "private": true,
   "dependencies": {
